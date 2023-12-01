@@ -1,0 +1,62 @@
+//===================================== INFO START =====================================//
+
+.info {
+    width: 100%;
+    background: #F4F5F7;
+    padding: 95px 0;
+    margin-bottom: 78px;
+
+    h2 {
+        color: #2D314D;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 100;
+        line-height: 64px;
+        letter-spacing: -0.714px;
+        margin-bottom: 16px;
+    }
+
+    p {
+        width: 635px;
+        color: #9597A5;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: -0.281px;
+        margin-bottom: 72px;
+    }
+
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0 30px;
+
+        img {
+            margin-bottom: 40px;
+        }
+
+        h4 {
+            color: #2D314D;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 100;
+            line-height: 28px;
+            letter-spacing: -0.429px;
+            margin-bottom: 26px;
+        }
+
+        p {
+            width: 255px;
+            color: #9597A5;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+            letter-spacing: -0.25px;
+        }
+    }
+}
+
+//===================================== INFO END =====================================//

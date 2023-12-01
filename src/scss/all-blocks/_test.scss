@@ -1,0 +1,69 @@
+//===================================== TEST START =====================================//
+
+.test {
+    margin-bottom: 80px;
+
+    h2 {
+        color: #2D314D;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 100;
+        line-height: 64px;
+        letter-spacing: -0.714px;
+        margin-bottom: 40px;
+    }
+
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0 30px;
+
+        li {
+            width: 255px;
+            height: 395px;
+            border-radius: 5px;
+            background-color: #fafafa;
+
+            img {
+                margin-bottom: 25px;
+            }
+
+            h4 {
+                margin-left: 24px;
+                color: #9597A5;
+                font-size: 10px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 18px;
+                letter-spacing: -0.156px;
+                margin-bottom: 8px;
+            }
+
+            .test-text {
+                width: 207px;
+                margin-left: 24px;
+                color: #2D314D;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 100;
+                line-height: 20px;
+                letter-spacing: -0.286px;
+                margin-bottom: 8px;
+            }
+
+            p {
+                width: 207px;
+                margin-left: 24px;
+                color: #9597A5;
+                font-size: 13px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 18px;
+                letter-spacing: -0.203px;
+            }
+        }
+    }
+}
+
+//===================================== TEST END =====================================//
